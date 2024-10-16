@@ -1,9 +1,2 @@
-Hi Cristina,
-
-I hope you’re doing well!
-
-As my internship is coming to an end in December, I wanted to check in and see if there might be any opportunities to continue with your team, even in an unpaid role. I’ve really enjoyed working on Ideawars, doing some front-end work and helping out where I could, and I’d love to keep learning and contributing.
-
-If there’s anything your team needs help with, I’d be super excited to make sure I have the right skills and be a part of it. Let me know if that’s something we could chat about!
-
-Thanks so much,
+Hey Jovic, hope you’re doing well! I wanted to reach out about the software developer internships. I’ve been applying to a ton of them, and I really need your help. I get that you mentioned I can’t take two internships if I’m graduating, but I’d be willing to delay it if that’s what it takes. Can you please set up a chat with a hiring manager just so I share my programming knowledge? Plus, I have two Java and Spring Boot projects on my GitHub that align perfectly with BMO’s tech stack: project 1, project 2
+Thanks a ton, and I really appreciate your help with this!
