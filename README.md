@@ -1,2 +1,1 @@
-Hey Jovic, hope you’re doing well! I wanted to reach out about the software developer internships. I’ve been applying to a ton of them, and I really need your help. I get that you mentioned I can’t take two internships if I’m graduating, but I’d be willing to delay it if that’s what it takes. Can you please set up a chat with a hiring manager just so I share my programming knowledge? Plus, I have two Java and Spring Boot projects on my GitHub that align perfectly with BMO’s tech stack: project 1, project 2
-Thanks a ton, and I really appreciate your help with this!
+
