@@ -1,17 +1,14 @@
+Based on the message from Sharon, it looks like she’s open to you continuing but is concerned about the logistics of another 8-month internship since the company can’t replace the role until the next term.
 
-Here’s a more casual version of the message:
+You could respond with something like this:
 
-Subject: Chat About My Role
+Hi Sharon,
 
-Hi [Manager’s Name],
+Thanks for the update and for considering me to continue. I understand the concern about the length of the internship. I’m definitely open to discussing it further with Jovic to see what options there might be. If it helps the team in any way, I’d be happy to explore solutions, whether it’s adjusting the length of my internship or finding another way to contribute.
 
-I just wanted to touch base about my position since we’re in the process of hiring someone new. I noticed that one of the candidates we interviewed last week has taken another role.
+Let me know what you think, and I can also reach out to Jovic to discuss logistics.
 
-I wanted to mention that I’m really interested in the possibility of extending my time here, if that’s something we could consider. I’ve loved working with the team and feel like I can keep contributing during this transition period.
-
-Let me know if you’d be open to chatting about this!
-
-Thanks,
+Thanks again!
 [Your Name]
 
-This version keeps things relaxed while expressing your interest.
+This keeps things flexible and shows you’re willing to work out the details.
