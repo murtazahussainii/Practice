@@ -7,7 +7,7 @@ Thanks for your response! I completely understand the concern, but I personally 
 I’ll reach out to Jovic to discuss the logistics and see if we can figure out a good solution.
 
 Appreciate your support!
-[Your Name]
+[Your Name]  
 
 This version is softer while still expressing your willingness to stay.
 \\
